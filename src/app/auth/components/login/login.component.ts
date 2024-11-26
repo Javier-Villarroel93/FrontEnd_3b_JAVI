@@ -30,4 +30,4 @@ export class LoginComponent {
     alert("Ingresando...")
   }
 
-}//hola
+}
